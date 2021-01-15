@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ab067ab-170a-4868-b8f0-c93c4d60f6cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1n0w3A5976OnAEC49J3bcFsWsRy" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.possible.FileSearchApp" />
+      <module name="FileSearch" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ab067ab-170a-4868-b8f0-c93c4d60f6cc" name="Default Changelist" comment="" />
+      <created>1610540113580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610540113580</updated>
+      <workItem from="1610540117319" duration="4048000" />
+      <workItem from="1610551833763" duration="733000" />
+      <workItem from="1610558263813" duration="6719000" />
+      <workItem from="1610634831036" duration="12181000" />
+      <workItem from="1610702666193" duration="353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="530" y="21" key="#com.intellij.ide.util.MemberChooser" timestamp="1610564341244">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="21" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610564341244" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1610558846240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610558846240" />
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1610703015781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1610703015781" />
+    <state x="39" y="0" key="new project wizard" timestamp="1610546738160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="39" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1610546738160" />
+    <state x="347" y="-1" key="search.everywhere.popup" timestamp="1610562426723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610562426723" />
+  </component>
+</project>
